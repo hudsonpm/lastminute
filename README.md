@@ -1,2 +1,0 @@
-# lastminute
-lastminute.com test
